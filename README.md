@@ -29,7 +29,7 @@ The MERN Stack Store Rating App allows users to sign up, log in, view stores, an
 
 1. **Clone the Repository**:
    ```bash
-   https://github.com/HarshLambe/store_rate_app.git
+   https://github.com/BhaskarAditya/store_rate_app.git
    ```
 
 2. **Install Dependencies**:
